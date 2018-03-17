@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C85C3A3C-A7FD-4CDD-AABB-8F137850B9B1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Echo/Printer.fs" Line="3" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Echo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/bini/dev/personal/fsharp/Echo/Echo/obj/Debug/netcoreapp2.0/Echo.fsprojResolveAssemblyReference.cache
+/Users/bini/dev/personal/fsharp/Echo/Echo/bin/Debug/netcoreapp2.0/Echo.deps.json
+/Users/bini/dev/personal/fsharp/Echo/Echo/bin/Debug/netcoreapp2.0/Echo.runtimeconfig.json
+/Users/bini/dev/personal/fsharp/Echo/Echo/bin/Debug/netcoreapp2.0/Echo.runtimeconfig.dev.json
+/Users/bini/dev/personal/fsharp/Echo/Echo/bin/Debug/netcoreapp2.0/Echo.dll
+/Users/bini/dev/personal/fsharp/Echo/Echo/bin/Debug/netcoreapp2.0/Echo.pdb
+/Users/bini/dev/personal/fsharp/Echo/Echo/obj/Debug/netcoreapp2.0/Echo.dll
+/Users/bini/dev/personal/fsharp/Echo/Echo/obj/Debug/netcoreapp2.0/Echo.pdb
